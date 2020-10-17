@@ -24,10 +24,11 @@ t-Distributed Stochastic Neighbor Embedding (commonly known as t-SNE) is a dimen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJVL80Gg3lA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * An [in-depth breakdown (with an example in Python!)](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
+This blog post is particularly useful for building an intuition about how t-SNE is related to other data reduction techniques (like principle component analysis), as well as how parameters effect the structure of your t-SNE output.
 
 
 ## Further Learning
-Parameter adjustments can be tricky! Here's an interactive resources for [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/).
+Parameter adjustments can be tricky! Here's an interactive resources for [how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/).
 
 ## Video
 
@@ -41,7 +42,7 @@ Parameter adjustments can be tricky! Here's an interactive resources for [How to
 
 ## Online tutorials
 
-* Here is [a simple, yet comprehensive tutorial] (https://www.datacamp.com/community/tutorials/introduction-t-sne)
+* Here is [a simple, yet comprehensive tutorial](https://www.datacamp.com/community/tutorials/introduction-t-sne)
 
 * If you have less time, this [very basic R tutorial](https://www.r-bloggers.com/2019/05/quick-and-easy-t-sne-analysis-in-r/) can get you visualizations in under 5 minutes
 
